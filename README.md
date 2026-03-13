@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Voice Gender Recognition
 
 Predicts speaker gender (Male/Female) from audio using MFCC features and Deep Learning (CNN).
@@ -29,3 +30,7 @@ python main.py
 ```bash
 python src/inference.py
 ```
+=======
+# Voice-Gender-Recognition
+ml project
+>>>>>>> 9b9c66a1de695825b9bb7387059a4683e6e180ab
