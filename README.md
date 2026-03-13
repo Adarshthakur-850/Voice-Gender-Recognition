@@ -1,10 +1,3 @@
-Here is a more detailed and professionally structured **README.md** tailored to properly explain your **Voice Gender Recognition** project from a technical and academic perspective.
-
-You can directly replace your existing README with this.
-
----
-
-```markdown
 # 🎙️ Voice Gender Recognition
 
 A machine learning project that predicts whether a voice belongs to a male or female speaker using audio signal processing and classification models.
