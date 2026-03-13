@@ -242,16 +242,3 @@ Machine Learning Enthusiast
 
 Add your preferred license (MIT recommended).
 
-```
-
----
-
-If you want, I can now:
-
-- Rewrite this in **research paper format**
-- Add **mathematical explanation of MFCC**
-- Convert it into a **portfolio-level project description**
-- Or upgrade it to a **production-ready ML deployment README**
-
-Tell me which direction you want.
-```
