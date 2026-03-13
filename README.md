@@ -235,10 +235,3 @@ This project demonstrates:
 
 Adarsh Thakur
 Machine Learning Enthusiast
-
----
-
-## 📄 License
-
-Add your preferred license (MIT recommended).
-
